@@ -1,0 +1,7 @@
+.card:hover{
+    transform: scale(1);
+    margin: 10px 0;
+    background-color: #090917;
+background-image: linear-gradient(0deg, #090917 36%, #d1db38 100%);
+color: white;
+}

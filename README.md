@@ -2,12 +2,13 @@
 
 En este proyecto practicamos lo que aprendimos hasta ahora sobre Javascript
 
+
 ## Como clonar el repositorio📝
 
-En una terminal ejecuta el siguiente comando:
+En una terminal de git ejecuta el siguiente comando:
 
 ```
-git clone https://github.com/estebanrm1/trabajoPracticoJs1.git
+git clone https://github.com/estebanrm1/tp2JavaScript.git
 ```
 
 ## ©Autor
