@@ -2,10 +2,10 @@ let numRepe = parseInt(prompt('Ingrese el numero de repeticiones'));
 
 if(isNaN(numRepe) == false){
     if(numRepe > 0 && numRepe <=50){
-    let i,rep
-        for(i = numRepe; i >= 1; i--){
-            for(rep = i; rep >= 1; rep--){
-                document.write(i);
+        let numero, rep;
+        for (numero = 0; numero <= numRepe; numero++) {
+            for (rep = 1; rep <= numero; rep++) {
+                document.write(rep);
             }
             document.write(`<br>`);
         }
